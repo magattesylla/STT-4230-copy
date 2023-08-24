@@ -70,7 +70,7 @@ En plus d'être un environnement de calculs statistiques, R permet de produire d
 
 > «\ R is a free software environment for statistical computing and graphics.\ »
 
-Lors de comparaison entre R et d'autres logiciels permettant de faire de l'analyse de données, les capacités graphiques de R sont souvent considérées comme un de ses meilleurs atouts. L'installation de base de R comporte beaucoup de fonctions graphiques, dont plusieurs sont présentées ici. Elles permettent de produire des graphiques pour lesquels l'utilisateur garde le plein contrôle sur l'apparence du graphique. 
+Lors de comparaison entre R et d'autres logiciels permettant de faire de l'analyse de données, les capacités graphiques de R sont souvent considérées comme un de ses meilleurs atouts. L'installation de base de R comporte beaucoup de fonctions graphiques, dont plusieurs sont présentées en références. Elles permettent de produire des graphiques pour lesquels l'utilisateur garde le plein contrôle sur l'apparence du graphique. 
 
 De plus, deux packages offrent des fonctions pouvant remplacer plusieurs des fonctions graphiques de base de R. Chacun de ces packages est tellement complet qu'il peut être qualifié de système graphique. Il s'agit des packages suivants\ :
 
