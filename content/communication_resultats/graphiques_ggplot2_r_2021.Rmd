@@ -77,7 +77,7 @@ De plus, deux packages offrent des fonctions pouvant remplacer plusieurs des fon
 - [`lattice`](https://CRAN.R-project.org/package=lattice)\ : package graphique qui met l'emphase sur les représentations multivariées,
 - [`ggplot2`](https://CRAN.R-project.org/package=ggplot2)\ : package graphique conçu en ayant comme objectif la simplicité d'utilisation et la qualité des graphiques produits.
 
-Le package `lattice` n'est présenté que très brièvement dans ce document, étant donné qu'il est de moins en moins utilisé. Le package `ggplot2` vit cependant le phénomène inverse\ : il est très populaire et est même devenu un incontournable pour la création de graphiques en R. Une [fiche à part](https://stt4230.rbind.io/communication_resultats/graphiques_ggplot2_r/) des notes lui est donc consacrée.
+Le package `lattice` n'est présenté que très brièvement dans le cours, étant donné qu'il est de moins en moins utilisé. Le package `ggplot2` vit cependant le phénomène inverse\ : il est très populaire et est même devenu un incontournable pour la création de graphiques en R.
 
 Pour finir, quelques autres possibilités graphiques en R sont mentionnées rapidement à la fin de ce document, notamment les\ :
 
@@ -87,7 +87,7 @@ Pour finir, quelques autres possibilités graphiques en R sont mentionnées rapi
 
 La grande quantité de possibilités graphiques en R contribue à en faire un puissant outil de visualisation de données.
 
-
+#### Pourquoi ggplot2 ? {-}
 
 Le [package `ggplot2`](http://ggplot2.tidyverse.org/) a été publié pour la première fois en 2006 sous le nom de `ggplot`. Il fut amélioré de façon importante et renommé `ggplot2` en 2007. Son créateur est Hadley Wickham, qui est aussi derrière plusieurs des packages du [`tidyverse`](https://www.tidyverse.org/), duquel `ggplot2` fait partie. Le package est maintenant [développé par toute une équipe](https://CRAN.R-project.org/package=ggplot2), dont des employés de RStudio. Il implémente la **grammaire graphique** présentée dans\ : « Wilkinson, L. (2005). *The grammar of graphics*, 2^e^ édition. Springer ».
 
